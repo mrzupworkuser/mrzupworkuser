@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm mrzodeskuser</h1>
-<h3 align="center">A full stack developer with 5+ years of experience and in-depth knowledge of PHP and JS frameworks</h3>
+<h1>Hi, I'm mrzodeskuser</h1>
+<h3>A full stack developer with 5+ years of experience and in-depth knowledge of PHP and JS frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrzodeskuser&label=Profile%20views&color=0e75b6&style=flat
 " alt="mrzodeskuser" /> </p>
