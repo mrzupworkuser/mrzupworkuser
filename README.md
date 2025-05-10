@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **PHP, Cakephp, Symfony, Laravel, Mysql, Mongo, React, Angular**
+- 💬 Ask me about **Laravel, Cakephp, Symfony, Mysql, Mongo, React, Angular, Devops**
 
 - 📫 How to reach me **mrzodeskuser@gmail.com**
 
